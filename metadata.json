@@ -1,0 +1,5 @@
+{
+  "name": "AI Hub",
+  "description": "An application that allows users to send prompts to multiple AI models (Gemini, ChatGPT, Grok, Claude) simultaneously and compare their responses in a single, streamlined interface. It supports text and image inputs.",
+  "requestFramePermissions": []
+}
